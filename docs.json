@@ -16,7 +16,6 @@
       },
       {
         "group": "Account (gated)",
-        "public": true,
         "pages": ["admin-only", "internal", "hidden"]
       }
     ]
